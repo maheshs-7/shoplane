@@ -1,2 +1,2 @@
-https://shoplane.netlify.app/
+LIVE DEMO https://shop-lane.netlify.app/
 
